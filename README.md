@@ -2,5 +2,5 @@
 Im an smol developer!
 
 ### 🧰 Project
-- - [Nafr-API](https://guthub.com/404)
+- [Nafr-API](https://guthub.com/404)
 
