@@ -1,4 +1,4 @@
-<h1 align="> 👋 Hi, I'm Aluwi </h1>
+<h1 align="center"> 👋 Hi, I'm Aluwi </h1>
 Im an smol developer!
 
 ### 🧰 Project
