@@ -1,8 +1,11 @@
 <div align="center">
-  <h1> 👋 Hi, I'm Aluwi </h1>
-  **Im an smoul developer!**
+  <h1>👋 Hi, I'm Aluwi</h1>
+  **I'm a small developer, with small skils**
 </div>
 
-### 🧰 Project
-- [Nafr-API](https://guthub.com/404)
+## 🧰 Project
+- [Nafr-API](https://github.com/Aluwi/NafrAPI)
 
+## 🔧 Skils
+- Design
+- JavaScript
