@@ -4,8 +4,8 @@
 </div>
 
 ## 🧰 Project
-- [Nafr-API](https://github.com/Aluwi/NafrAPI)
-- [Ciff.js \[ hello\] 
+- [Nafr-API](https://github.com/Aluwi21/NafrAPI)
+- [Ciff.js \[ hello\](https://github.com/MonoeOrg/Ciff.js)
 
 ## 🔧 Skils
 - Design
