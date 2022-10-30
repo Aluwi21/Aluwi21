@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Aluwi</h1>
-  **I'm a small developer, with small skils**
+  <b>i'm a small developer, with small skils!</b>
 </div>
 
 ## 🧰 Project
