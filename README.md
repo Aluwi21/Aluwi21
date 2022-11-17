@@ -4,11 +4,10 @@
 </div>
 
 ## 🧰 Project
-- [Nafr-API](https://github.com/Aluwi21/NafrAPI)
+- [Eon API ](https://github.com/Aluwi21/Eon-API)
 - [Ciff.js \[onDev\]](https://github.com/MonoeOrg/Ciff.js)
 
 ## 🔧 Skils
 - Design
 - JavaScript
 
-## 
