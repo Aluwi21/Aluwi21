@@ -5,11 +5,11 @@
 
 ## 🧰 Project
 - [Eon API ](https://github.com/Aluwi21/Eon-API)
-- [Ciff.js \[onDev\]](https://github.com/MonoeOrg/Ciff.js)
+- [Ciff.js \[onDev\]](https://github.com/MonoeDev/ciff.js)
 
 ## 🔧 Skils
 - Design
 - JavaScript
 
-### Connect With Me
+### Connection 
 CodePen - 
