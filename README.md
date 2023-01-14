@@ -4,8 +4,8 @@
 </div>
 
 ## 🧰 Project
-- [Eon API ](https://github.com/Aluwi21/Eon-API)
-- [Ciff.js \[onDev\]](https://github.com/MonoeDev/ciff.js)
+- [EON API ](https://github.com/Aluwi21/Eon-API)
+- [Ciff.js](https://github.com/MonoeDev/ciff.js)
 
 ## 🔧 Skils
 - Design
