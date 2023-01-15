@@ -1,0 +1,35 @@
+/*@import "id-ment.css";*/
+root {
+  font-family: Sans-Serif;
+}
+/*a {
+  text-decoration: none;
+}*/
+nav {
+  background-color: #1988f7;
+  display: flex;
+  justify-content: space-between;
+  box-sizing: border-box;
+ /* position: fixed;*/
+}
+nav a{
+  color: white;
+  background-color: transparent;
+  font-size: 18px;
+  display: inline-block;
+  box-sizing: border-box;
+  padding: 14px 20px;
+}
+
+nav a .title {
+  font-weight: 600;
+}
+
+nav a:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.pfp {
+  width: 300px;
+  height: 300px;
+  border-radius: 8px;
+}
