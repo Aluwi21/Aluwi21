@@ -1,7 +1,12 @@
-root {
-  font-family: Sans-Serif;
+body {
+  font-family: Verdana;
 }
-nav {
-  align-content: center;
+a {
+  text-decoration: none;
 }
-nav 
+.img {
+  width: 300px;
+  height: 300px;
+  margin: 3%;
+  border-radius: 8px;
+}
