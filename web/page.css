@@ -1,17 +1,12 @@
-/*@import "id-ment.css";*/
-root {
-  font-family: Sans-Serif;
-}
-a {
-  text-decoration: none;
-}
+@import 'src/def.css';
 .navbar {
-  background-color: #1988f7;
+  background-color: #00aaff;
   display: flex;
   justify-content: flex-start;
   box-sizing: border-box;
+  border: 3px solid #009BE9;
+  border-radius: 4px;
 }
-
 .navbar a {
   color: white;
   background-color: transparent;
@@ -20,11 +15,12 @@ a {
   box-sizing: border-box;
   padding: 14px 20px;
 }
-
-a .title {
-  font-weight: 600;
+.navbar .icon{
+  width: 45px;
+  height: 45px;
+  border-radius: 8px;
+  margin: 2px;
 }
-
 .navbar a:hover {
   background-color: rgba(0, 0, 0, 0.1);
 }
