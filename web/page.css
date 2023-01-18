@@ -1,19 +1,21 @@
 @import 'src/def.css';
 .navbar {
+  overflow: hidden;
   background-color: #00aaff;
-  display: flex;
-  justify-content: flex-start;
-  box-sizing: border-box;
-  border: 3px solid #009BE9;
-  border-radius: 4px;
+  position: fixed;
+  border: 3px solid rgba(0, 0, 0, 0.1);
+  border-radius: 3px;
+  padding: 0;
+  top: 0;
+  left: 0;
+  right: 0;
 }
 .navbar a {
+  float: left;
+  display: block;
   color: white;
-  background-color: transparent;
-  font-size: 18px;
-  display: inline-block;
-  box-sizing: border-box;
-  padding: 14px 20px;
+  text-align: center;
+  padding: 14px 16px;
 }
 .navbar .icon{
   width: 45px;
