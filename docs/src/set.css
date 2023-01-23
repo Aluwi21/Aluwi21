@@ -1,0 +1,28 @@
+.moji {
+  width: 15px;
+  height: 15px;
+}
+.card {
+  background-color: #44ed7b;
+  max-width: 500px;
+  min-height: 100px;
+  margin: 8px;
+  border: 2px solid rgba(0, 0, 0, 0.3);
+  border-radius: 4px;
+  padding: 3px;
+}
+.card .title {
+  text-align: center;
+  margin-top: 8px;
+  margin-left: 8px;
+  font-weight: 700;
+}
+.card .title img {
+  align-content: center;
+  width: 35px;
+  height: 35px;
+  border-radius: 3px;
+}
+.card:hover {
+  border: 3px outset rgba(0, 0, 0, 0.1);
+}
