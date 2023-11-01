@@ -7,10 +7,10 @@
 [Receipt Print WebApp](htttps://github.com/Aluwi21/Receipt-printing-webapp)
 
 ## 🧰 Project
-- [EON API ](https://github.com/Aluwi21/Eon-API)
-- [Ciff.js](https://github.com/MonoeDev/ciff.js)
+- [Delivri](https://github.com/AsterkOrg/delivri)
+A nodejs package for building websites
 
 ## 🔧 Skils
-- UI Designing
+- design graphics
 - JavaScript (node.js)
-- Web Dev (HTML, CSS, JS)
+- Web (HTML, CSS, JS)
